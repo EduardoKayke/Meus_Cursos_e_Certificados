@@ -2,7 +2,7 @@
 
 
 
-     Disciplinas da graduação em Dev Web:                    Atuação nas áreas de: 
+     Disciplinas da graduação em Dev Web:                     Atuação nas áreas de: 
 
      . Sociedade Brasileira e Cidadania.                      . Aplicativos e sites com front-end e back-end.  
      . Projeto de Software.                                   . Desenvolvimento de softwares.   
