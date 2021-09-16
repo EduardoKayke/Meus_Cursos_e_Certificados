@@ -1,59 +1,26 @@
 <h2 align="center">Universidade Unopar.</h2>
 
-<div align="left">
+
 
          Disciplinas da graduação em Dev Web:                            Atuação nas áreas de: 
-<div align="left">
 
         . Sociedade Brasileira e Cidadania.                             . Aplicativos e sites com front-end e back-end.  
-<div align="left">
-
         . Projeto de Software.                                          . Desenvolvimento de softwares.   
-<div align="left">
-
         . Análise e Modelagem de Sistemas.                              . Sistema de hospedagem. 
-<div align="left">
-
         . Arquiteturas e Organização de Computadores.                   . Rede.
-<div align="left">
-
         . Desenvolvimento Orientado ao Objeto.                          . Banco de dados.
-<div align="left">
-
         . Programação e Desenvolvimento de Banco de Dados.              . Servidor. 
-<div align="left">
-
         . Redes de Computadores e Servidores Web.                       . Segurança de dados.  
-<div align="left">
-
         . Análise Orientada a Objetos.                                  . UX. 
-<div align="left">
-
         . Desenvolvimento de Sistemas E-commerce.                       . Segurança cibernética.  
-<div align="left">
-
         . Desenvolvimento em JavaScript.                      
-<div align="left">
-
         . Desenvolvimento Responsivo. 
-<div align="left">
-
         . Segurança para Serviços Web.  
-<div align="left">
-
         . Algoritmos e Programação Estruturada.  
-<div align="left">
-
         . Lógica Computacional.
-<div align="left">
-
         . Modelagem Banco de Dados.
-<div align="left">
-
         . Tecnologias Web Service.
-<div align="left">
-
-        . Linguagem de Programação. 
+        . Linguagem de Programação.
     
 
 <h2 align="center">Cursos pela Udemy.</h2>
