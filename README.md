@@ -2,25 +2,25 @@
 
 
 
-         Disciplinas da graduação em Dev Web:                    Atuação nas áreas de: 
+     Disciplinas da graduação em Dev Web:                    Atuação nas áreas de: 
 
-        . Sociedade Brasileira e Cidadania.                      . Aplicativos e sites com front-end e back-end.  
-        . Projeto de Software.                                   . Desenvolvimento de softwares.   
-        . Análise e Modelagem de Sistemas.                       . Sistema de hospedagem. 
-        . Arquiteturas e Organização de Computadores.            . Rede.
-        . Desenvolvimento Orientado ao Objeto.                   . Banco de dados.
-        . Programação e Desenvolvimento de Banco de Dados.       . Servidor. 
-        . Redes de Computadores e Servidores Web.                . Segurança de dados.  
-        . Análise Orientada a Objetos.                           . UX. 
-        . Desenvolvimento de Sistemas E-commerce.                . Segurança cibernética.  
-        . Desenvolvimento em JavaScript.                      
-        . Desenvolvimento Responsivo. 
-        . Segurança para Serviços Web.  
-        . Algoritmos e Programação Estruturada.  
-        . Lógica Computacional.
-        . Modelagem Banco de Dados.
-        . Tecnologias Web Service.
-        . Linguagem de Programação.
+     . Sociedade Brasileira e Cidadania.                      . Aplicativos e sites com front-end e back-end.  
+     . Projeto de Software.                                   . Desenvolvimento de softwares.   
+     . Análise e Modelagem de Sistemas.                       . Sistema de hospedagem. 
+     . Arquiteturas e Organização de Computadores.            . Rede.
+     . Desenvolvimento Orientado ao Objeto.                   . Banco de dados.
+     . Programação e Desenvolvimento de Banco de Dados.       . Servidor. 
+     . Redes de Computadores e Servidores Web.                . Segurança de dados.  
+     . Análise Orientada a Objetos.                           . UX. 
+     . Desenvolvimento de Sistemas E-commerce.                . Segurança cibernética.  
+     . Desenvolvimento em JavaScript.                      
+     . Desenvolvimento Responsivo. 
+     . Segurança para Serviços Web.  
+     . Algoritmos e Programação Estruturada.  
+     . Lógica Computacional.
+     . Modelagem Banco de Dados.
+     . Tecnologias Web Service.
+     . Linguagem de Programação.
     
 
 <h2 align="center">Cursos pela Udemy.</h2>
