@@ -25,30 +25,42 @@
 
 <h2 align="center">Cursos pela Udemy.</h2>
 
-[Programação para Leigos e informática do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-3148215F "Certificado")<br/>
-[Git e Github Essencial para o Desenvolvedor.](https://www.geekuniversity.com.br/certificado/CG-9BF84626 "Certificado")<br/>
-[Algoritmos e Lógica de Programação do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-DEFA2BB4 "Certificado")<br/>
-Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
 
 
-<h2 align="center">Cursos Digital Innovation One.</h2> 
+     . Programação para Leigos e informática do básico ao avançado.  
+     . Git e Github Essencial para o Desenvolvedor.
+     . Algoritmos e Lógica de Programação do básico ao avançado.
+     . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
+     
+[Certificados no linkedin.](https://www.linkedin.com/in/eduardokaykedasilva/)
 
-[Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado")<br/>
-[IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")<br/>
-[Dominando IDEs Java.](https://certificates.digitalinnovation.one/BDBD08F9 "Certificado")<br/>
-Pojetos ágeis com SCRUM. (Cursando)<br/> 
-[Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")<br/>
-[Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")<br/>
+<h2 align="center">Cursos Digital Innovation One.</h2>
 
-<h2 align="center">Mercado de ações.</h2> 
 
-[Guia Oficial Mercado de Ações para Iniciantes.](https://www.udemy.com/certificate/UC-1S2TY0XX/ "Certificado")<br/>
-[Análise Técnica: Curso para Day Trade e Swing Trade.](https://www.udemy.com/certificate/UC-8V9FBRKZ/ "Certificado")<br/>
-[Master Class Bolsa de Valores sem Segredos.](https://www.udemy.com/certificate/UC-3edd742a-9200-487d-8af7-5dd23d207848/ "Certificado")<br/>
-[Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado")<br/>
-[Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")<br/>
+
+     . Bem-vindo à DIO.  
+     . IDE Instalação e Configuração (Visual Studio Code).
+     . Dominando IDEs Java.
+     . Pojetos ágeis com SCRUM. (Cursando)
+     . Introdução ao Git e ao GitHub.
+     . Lógica de Programação Essencial.
+     
+[Certificados no linkedin.](https://www.linkedin.com/in/eduardokaykedasilva/)
+
+<h2 align="center">Mercado de ações.</h2>
+
+
+
+     . Guia Oficial Mercado de Ações para Iniciantes. 
+     . Análise Técnica: Curso para Day Trade e Swing Trade.
+     . Master Class Bolsa de Valores sem Segredos.
+     . Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.
+     . Introdução ao Git e ao GitHub.
+     . Análise Técnica - Opere como um profissional do mercado.
+     
+[Certificados no linkedin.](https://www.linkedin.com/in/eduardokaykedasilva/)
 
 <div align="center">
-Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.
+Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
 
 <p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
