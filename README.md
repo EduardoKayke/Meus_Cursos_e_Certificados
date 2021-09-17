@@ -32,7 +32,7 @@
      . Algoritmos e Lógica de Programação do básico ao avançado.
      . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
      
-[Certificados no linkedin.](https://www.linkedin.com/in/eduardokaykedasilva/)
+
 
 <h2 align="center">Cursos Digital Innovation One.</h2>
 
@@ -45,7 +45,7 @@
      . Introdução ao Git e ao GitHub.
      . Lógica de Programação Essencial.
      
-[Certificados no linkedin.](https://www.linkedin.com/in/eduardokaykedasilva/)
+
 
 <h2 align="center">Mercado de ações.</h2>
 
@@ -58,7 +58,7 @@
      . Introdução ao Git e ao GitHub.
      . Análise Técnica - Opere como um profissional do mercado.
      
-[Certificados no linkedin.](https://www.linkedin.com/in/eduardokaykedasilva/)
+
 
 <div align="center">
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
