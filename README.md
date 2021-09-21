@@ -42,7 +42,6 @@
      . Bem-vindo à DIO.  
      . IDE Instalação e Configuração (Visual Studio Code).
      . Dominando IDEs Java.
-     . Pojetos ágeis com SCRUM. (Cursando)
      . Introdução ao Git e ao GitHub.
      . Lógica de Programação Essencial.
      . Introdução a criação de websites com HTML5 e CSS3.
