@@ -41,6 +41,7 @@
 
      . Bem-vindo à DIO.  
      . IDE Instalação e Configuração (Visual Studio Code).
+     . Instalando e Configurando seu Ambiente Node.js
      . Dominando IDEs Java.
      . Introdução ao Git e ao GitHub.
      . Lógica de Programação Essencial.
