@@ -50,6 +50,7 @@
      . Lógica de Programação Essencial.
      . Introdução a criação de websites com HTML5 e CSS3.
      . Programação para internet com JavaScript.
+     . Mentalidade Empreendedora.
      
 
 
