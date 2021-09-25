@@ -4,7 +4,8 @@
 
      Digital Innovation one:                   
 
-     . Cursando.
+     . HTML Web Developer. (Em Breve)
+     . JavaScript Game Developer. (Em Breve)
 
 
 <h2 align="center">Universidade Unopar.</h2>
