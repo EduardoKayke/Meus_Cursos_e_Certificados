@@ -49,7 +49,8 @@
 
 
 
-     . Bem-vindo à DIO.  
+     . Bem-vindo à DIO.
+     . Introdução a Qualidade de Software.
      . IDE Instalação e Configuração (Visual Studio Code).
      . Instalando e Configurando seu Ambiente Node.js
      . Dominando IDEs Java.
@@ -62,6 +63,7 @@
      . Programação para internet com JavaScript.
      . Introdução prática ao Figma.
      . Mentalidade Empreendedora.
+  
      
      
 
