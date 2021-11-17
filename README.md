@@ -4,11 +4,8 @@
 
      Digital Innovation one:                   
 
+     . BOOTCAMP - Become Remote.
      . BOOTCAMP - HTML Web Developer. 
-         .. Recriando a página inicial do Instagram.
-         .. Recriando a interface do NETFLIX.
-         .. Recriando o jogo da cobrinha com JavaScript.
-         
      . BOOTCAMP - JavaScript Game Developer. (Em Breve)
 
 
