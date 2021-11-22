@@ -66,8 +66,7 @@
      . Introdução prática ao Figma.
      . Mentalidade Empreendedora.
      . Construindo páginas para internet com Bootstrap.
-  
-     
+     . Desmistificando map, filter e reduce.
      
 
 
