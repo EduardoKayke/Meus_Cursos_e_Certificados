@@ -67,7 +67,7 @@
      . Mentalidade Empreendedora.
      . Construindo páginas para internet com Bootstrap.
      . Desmistificando map, filter e reduce.
-     
+     . Projetos ágeis com SCRUM.     
 
 
 <h2 align="center">Mercado de ações.</h2>
