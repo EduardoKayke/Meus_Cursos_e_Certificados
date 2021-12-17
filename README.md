@@ -42,9 +42,9 @@
      . Git e Github Essencial para o Desenvolvedor.
      . Algoritmos e Lógica de Programação do básico ao avançado.
      . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
-     . Bootstrap 5 do básico ao avançado. (com 4 projetos)
-     . Programação em JavaScript do básico ao avançado. (Cursando)
+     . Bootstrap 5 do básico ao avançado.
      . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
+     . Programação em JavaScript do básico ao avançado. (Cursando)
      . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (Cursando)
      
 
