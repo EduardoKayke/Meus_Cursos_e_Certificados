@@ -41,9 +41,9 @@
      . Programação para Leigos e informática do básico ao avançado.  
      . Git e Github Essencial para o Desenvolvedor.
      . Algoritmos e Lógica de Programação do básico ao avançado.
-     . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
      . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
      . Bootstrap 5 do básico ao avançado.
+     . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
      . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
      . Programação em JavaScript do básico ao avançado. (Cursando)
      . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (Cursando)
