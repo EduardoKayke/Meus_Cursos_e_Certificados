@@ -44,6 +44,7 @@
      . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
      . Bootstrap 5 do básico ao avançado.
      . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
+     . WordPress - Curso Como Criar Site com Design Moderno.
      . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
      . Programação em JavaScript do básico ao avançado. (Cursando)
      . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (Cursando)
