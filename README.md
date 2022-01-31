@@ -10,12 +10,10 @@
      . Programação em JavaScript do básico ao avançado. (Cursando)
      
      
-     
      Back-end:
      
      . Bancos de Dados SQL e NoSQL do básico ao avançado. (EM BREVE)
      . Formação Node.js. (EM BREVE)
-     
      
      
      Full Stack:
