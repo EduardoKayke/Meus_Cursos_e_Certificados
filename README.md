@@ -1,12 +1,49 @@
+<h2 align="center">Cursos pela Udemy.</h2>
+
+
+    
+     Front-end:
+     
+     . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
+     . Bootstrap 5 do básico ao avançado.
+     . WordPress - Curso Como Criar Site com Design Moderno.
+     . Programação em JavaScript do básico ao avançado. (Cursando)
+     
+     
+     
+     Back-end:
+     
+     . Bancos de Dados SQL e NoSQL do básico ao avançado. (EM BREVE)
+     . Formação Node.js. (EM BREVE)
+     
+     
+     
+     Full Stack:
+     
+     . Programação para Leigos e informática do básico ao avançado.
+     . Algoritmos e Lógica de Programação do básico ao avançado.
+     . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
+     . Git e Github Essencial para o Desenvolvedor.
+     . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
+     . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (EM BREVE)
+     
+     
+     Design:
+     
+     . Curso completo de ADOBE XD 2021 [UI/UX Design APPs e Sites].
+          
+
+
 <h2 align="center">Bootcamps.</h2>
 
 
 
      Digital Innovation one:                   
-
+     
      . BOOTCAMP - Become Remote.
      . BOOTCAMP - HTML Web Developer. 
      . BOOTCAMP - JavaScript Game Developer. (Em Breve)
+
 
 
 <h2 align="center">Universidade Unopar.</h2>
@@ -34,23 +71,6 @@
      . Linguagem de Programação.
     
 
-<h2 align="center">Cursos pela Udemy.</h2>
-
-
-
-     . Programação para Leigos e informática do básico ao avançado.  
-     . Git e Github Essencial para o Desenvolvedor.
-     . Algoritmos e Lógica de Programação do básico ao avançado.
-     . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
-     . Bootstrap 5 do básico ao avançado.
-     . Programação em JavaScript do básico ao avançado. (Cursando)
-     . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
-     . WordPress - Curso Como Criar Site com Design Moderno.
-     . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
-     . Programação em JavaScript do básico ao avançado. (Cursando)
-     . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (Cursando)
-     
-
 
 <h2 align="center">Cursos Digital Innovation One.</h2>
 
@@ -73,6 +93,7 @@
      . Construindo páginas para internet com Bootstrap.
      . Desmistificando map, filter e reduce.
      . Projetos ágeis com SCRUM.     
+
 
 
 <h2 align="center">Mercado de ações.</h2>
