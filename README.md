@@ -7,6 +7,7 @@
      . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
      . Bootstrap 5 do básico ao avançado.
      . WordPress - Curso Como Criar Site com Design Moderno.
+     . Aprenda a desenvolver jogos com JAVASCRIPT do ZERO!
      . Programação em JavaScript do básico ao avançado. (Cursando)
      
      
