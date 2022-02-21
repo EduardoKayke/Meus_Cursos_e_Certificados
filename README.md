@@ -2,29 +2,19 @@
 
 
     
-     Front-end:
-     
-     . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
-     . Bootstrap 5 do básico ao avançado.
-     . WordPress - Curso Como Criar Site com Design Moderno.
-     . Aprenda a desenvolver jogos com JAVASCRIPT do ZERO!
-     . Programação em JavaScript do básico ao avançado. (Cursando)
-     
-     
-     Back-end:
-     
-     . Bancos de Dados SQL e NoSQL do básico ao avançado. (EM BREVE)
-     . Formação Node.js. (EM BREVE)
-     
-     
      Full Stack:
      
      . Programação para Leigos e informática do básico ao avançado.
+     . WordPress - Curso Como Criar Site com Design Moderno.
      . Algoritmos e Lógica de Programação do básico ao avançado.
      . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
      . Git e Github Essencial para o Desenvolvedor.
+     . Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB.
+     . Bootstrap 5 do básico ao avançado.
+     . Aprenda a desenvolver jogos com JAVASCRIPT do ZERO!
+     . Programação em JavaScript do básico ao avançado. (Cursando)
      . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
-     . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (EM BREVE)
+     . Formação Node.js. (Cursando)
      
      
      Design:
@@ -41,7 +31,6 @@
      
      . BOOTCAMP - Become Remote.
      . BOOTCAMP - HTML Web Developer. 
-     . BOOTCAMP - JavaScript Game Developer. (Em Breve)
 
 
 
@@ -67,31 +56,7 @@
      . Lógica Computacional.
      . Modelagem Banco de Dados.
      . Tecnologias Web Service.
-     . Linguagem de Programação.
-    
-
-
-<h2 align="center">Cursos Digital Innovation One.</h2>
-
-
-
-     . Bem-vindo à DIO.
-     . Introdução a Qualidade de Software.
-     . IDE Instalação e Configuração (Visual Studio Code).
-     . Instalando e Configurando seu Ambiente Node.js
-     . Dominando IDEs Java.
-     . Introdução ao Git e ao GitHub.
-     . Trabalhando com Branches no GitHub.
-     . Git e GitHub Focado em Pull Request.
-     . Trabalhando com Git e GitLab na prática.
-     . Lógica de Programação Essencial.
-     . Introdução a criação de websites com HTML5 e CSS3.
-     . Programação para internet com JavaScript.
-     . Introdução prática ao Figma.
-     . Mentalidade Empreendedora.
-     . Construindo páginas para internet com Bootstrap.
-     . Desmistificando map, filter e reduce.
-     . Projetos ágeis com SCRUM.     
+     . Linguagem de Programação.    
 
 
 
