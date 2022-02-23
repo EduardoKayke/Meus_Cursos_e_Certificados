@@ -76,4 +76,4 @@
 <div align="center">
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
 
-<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Eduardo Kayke buy me a coffe" /></a></p><br><br>
