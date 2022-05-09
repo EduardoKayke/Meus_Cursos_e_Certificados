@@ -31,7 +31,7 @@
      
      . BOOTCAMP - Become Remote.
      . BOOTCAMP - HTML Web Developer. 
-     . BOOTCAMP - Órbi Web Game Developer
+     . BOOTCAMP - Órbi Web Games Developer
 
 
 
