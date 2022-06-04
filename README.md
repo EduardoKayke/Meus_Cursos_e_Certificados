@@ -5,6 +5,7 @@
      Full Stack:
      
      . Programação para Leigos e informática do básico ao avançado.
+     . Introdução ao Git e ao GitHub.
      . WordPress - Curso Como Criar Site com Design Moderno.
      . Algoritmos e Lógica de Programação do básico ao avançado.
      . Algoritmo e Lógica de Programação do Absoluto ZERO! Completo.
@@ -69,7 +70,6 @@
      . Análise Técnica: Curso para Day Trade e Swing Trade.
      . Master Class Bolsa de Valores sem Segredos.
      . Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.
-     . Introdução ao Git e ao GitHub.
      . Análise Técnica - Opere como um profissional do mercado.
      
 
